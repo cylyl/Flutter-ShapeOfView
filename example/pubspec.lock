@@ -70,9 +70,11 @@ packages:
   kenburns:
     dependency: "direct main"
     description:
-      path: "../../Flutter-KenBurns"
-      relative: true
-    source: path
+      path: "."
+      ref: a204c98f1828429d976d19a5cc91877a32870676
+      resolved-ref: a204c98f1828429d976d19a5cc91877a32870676
+      url: "https://github.com/cylyl/Flutter-KenBurns.git"
+    source: git
     version: "1.0.5"
   matcher:
     dependency: transitive
