@@ -48,10 +48,10 @@ class ShapeOfViewBorder extends ShapeBorder {
   }
   */
 
-  @override
-  Path? getInnerPath(Rect rect, {TextDirection? textDirection}) {
+  /*@override
+  Path getInnerPath(Rect rect, {TextDirection? textDirection}) {
     return null;
-  }
+  }*/
 
   @override
   Path getOuterPath(Rect rect, {TextDirection? textDirection}) {
